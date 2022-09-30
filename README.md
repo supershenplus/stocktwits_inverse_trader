@@ -1,5 +1,5 @@
 # stocktwits_inverse_trader
-A script thats find a random stock, then invereses the sentiment of StockTwits users. The logic behind this is that the average StockTwits user is more wrong than right :D
+A script that finds a random stock, then invereses the sentiment of StockTwits users. The logic behind this is that the average StockTwits user is more wrong than right :D
 
 This is done on a paper trading account and is just for fun!
 
